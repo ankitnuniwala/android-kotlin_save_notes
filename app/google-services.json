@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745367256769",
+    "firebase_url": "https://indiahaat-712c3.firebaseio.com",
+    "project_id": "indiahaat-712c3",
+    "storage_bucket": "indiahaat-712c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745367256769:android:c4627e776d4a3ef4e65e40",
+        "android_client_info": {
+          "package_name": "com.indiahaat.onlinenotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745367256769-apubo2uh51pg5hk4a6a5nrssmoi1kinv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUlsPHj2TUNFuxj4ZJsLmXe8MTXfbykzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745367256769-apubo2uh51pg5hk4a6a5nrssmoi1kinv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

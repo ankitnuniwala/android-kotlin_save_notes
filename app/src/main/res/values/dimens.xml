@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="small_padding_margin">8dp</dimen>
+    <dimen name="medium_padding_margin">16dp</dimen>
+    <dimen name="large_padding_margin">24dp</dimen>
+    <dimen name="text_large_size">24sp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="cardview_radius">4dp</dimen>
+    <dimen name="text_medium_size">18sp</dimen>
+    <dimen name="text_small_size">14sp</dimen>
+</resources>
